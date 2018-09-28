@@ -17,3 +17,14 @@ p {
   background-color: #ecf0f1;
   border: 2px dotted #bdc3c7;
 }
+.block1{
+  float: left;
+}
+
+img {
+float: left;
+margin-right: 10px;
+}
+.block2{
+  float: right;
+}
