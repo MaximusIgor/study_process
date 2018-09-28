@@ -19,4 +19,7 @@
 }
 
 .column2 {
+  float: left;
+  width: 80px;
+  min-height: 50px;
 }
