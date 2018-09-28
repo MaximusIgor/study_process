@@ -23,3 +23,9 @@
   width: 80px;
   min-height: 50px;
 }
+
+.column3 {
+  float: right;
+  width: 65px;
+  min-height: 50px;
+}
